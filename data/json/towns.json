@@ -1,0 +1,387 @@
+[
+    {
+        "id": 1,
+        "name": "BANIKOARA",
+        "department_id": "1"
+    },
+    {
+        "id": 2,
+        "name": "GOGOUNOU",
+        "department_id": "1"
+    },
+    {
+        "id": 3,
+        "name": "KANDI",
+        "department_id": "1"
+    },
+    {
+        "id": 4,
+        "name": "KARIMAMA",
+        "department_id": "1"
+    },
+    {
+        "id": 5,
+        "name": "MALANVILLE",
+        "department_id": "1"
+    },
+    {
+        "id": 6,
+        "name": "SEGBANA",
+        "department_id": "1"
+    },
+    {
+        "id": 7,
+        "name": "BOUKOUMBE",
+        "department_id": "2"
+    },
+    {
+        "id": 8,
+        "name": "COBLY",
+        "department_id": "2"
+    },
+    {
+        "id": 9,
+        "name": "KEROU",
+        "department_id": "2"
+    },
+    {
+        "id": 10,
+        "name": "KOUANDE",
+        "department_id": "2"
+    },
+    {
+        "id": 11,
+        "name": "MATERI",
+        "department_id": "2"
+    },
+    {
+        "id": 12,
+        "name": "NATITINGOU",
+        "department_id": "2"
+    },
+    {
+        "id": 13,
+        "name": "OUASSA-PEHUNCO",
+        "department_id": "2"
+    },
+    {
+        "id": 14,
+        "name": "TANGUIETA",
+        "department_id": "2"
+    },
+    {
+        "id": 15,
+        "name": "TOUKOUNTOUNA",
+        "department_id": "2"
+    },
+    {
+        "id": 16,
+        "name": "ABOMEY-CALAVI",
+        "department_id": "3"
+    },
+    {
+        "id": 17,
+        "name": "ALLADA",
+        "department_id": "3"
+    },
+    {
+        "id": 18,
+        "name": "KPOMASSE",
+        "department_id": "3"
+    },
+    {
+        "id": 19,
+        "name": "OUIDAH",
+        "department_id": "3"
+    },
+    {
+        "id": 20,
+        "name": "SO-AVA",
+        "department_id": "3"
+    },
+    {
+        "id": 21,
+        "name": "TOFFO",
+        "department_id": "3"
+    },
+    {
+        "id": 22,
+        "name": "TORI-BOSSITO",
+        "department_id": "3"
+    },
+    {
+        "id": 23,
+        "name": "ZE",
+        "department_id": "3"
+    },
+    {
+        "id": 24,
+        "name": "BEMBEREKE",
+        "department_id": "4"
+    },
+    {
+        "id": 25,
+        "name": "KALALE",
+        "department_id": "4"
+    },
+    {
+        "id": 26,
+        "name": "N'DALI",
+        "department_id": "4"
+    },
+    {
+        "id": 27,
+        "name": "NIKKI",
+        "department_id": "4"
+    },
+    {
+        "id": 28,
+        "name": "PARAKOU",
+        "department_id": "4"
+    },
+    {
+        "id": 29,
+        "name": "PERERE",
+        "department_id": "4"
+    },
+    {
+        "id": 30,
+        "name": "SINENDE",
+        "department_id": "4"
+    },
+    {
+        "id": 31,
+        "name": "TCHAOUROU",
+        "department_id": "4"
+    },
+    {
+        "id": 32,
+        "name": "BANTE",
+        "department_id": "5"
+    },
+    {
+        "id": 33,
+        "name": "DASSA-ZOUME",
+        "department_id": "5"
+    },
+    {
+        "id": 34,
+        "name": "GLAZOUE",
+        "department_id": "5"
+    },
+    {
+        "id": 35,
+        "name": "OUESSE",
+        "department_id": "5"
+    },
+    {
+        "id": 36,
+        "name": "SAVALOU",
+        "department_id": "5"
+    },
+    {
+        "id": 37,
+        "name": "SAVE",
+        "department_id": "5"
+    },
+    {
+        "id": 38,
+        "name": "APLAHOUE",
+        "department_id": "6"
+    },
+    {
+        "id": 39,
+        "name": "DJAKOTOMEY",
+        "department_id": "6"
+    },
+    {
+        "id": 40,
+        "name": "DOGBO",
+        "department_id": "6"
+    },
+    {
+        "id": 41,
+        "name": "KLOUEKANMEY",
+        "department_id": "6"
+    },
+    {
+        "id": 42,
+        "name": "LALO",
+        "department_id": "6"
+    },
+    {
+        "id": 43,
+        "name": "TOVIKLIN",
+        "department_id": "6"
+    },
+    {
+        "id": 44,
+        "name": "BASSILA",
+        "department_id": "7"
+    },
+    {
+        "id": 45,
+        "name": "COPARGO",
+        "department_id": "7"
+    },
+    {
+        "id": 46,
+        "name": "DJOUGOU",
+        "department_id": "7"
+    },
+    {
+        "id": 47,
+        "name": "OUAKE",
+        "department_id": "7"
+    },
+    {
+        "id": 48,
+        "name": "COTONOU",
+        "department_id": "8"
+    },
+    {
+        "id": 49,
+        "name": "ATHIEME",
+        "department_id": "9"
+    },
+    {
+        "id": 50,
+        "name": "BOPA",
+        "department_id": "9"
+    },
+    {
+        "id": 51,
+        "name": "COME",
+        "department_id": "9"
+    },
+    {
+        "id": 52,
+        "name": "GRAND-POPO",
+        "department_id": "9"
+    },
+    {
+        "id": 53,
+        "name": "HOUEYOGBE",
+        "department_id": "9"
+    },
+    {
+        "id": 54,
+        "name": "LOKOSSA",
+        "department_id": "9"
+    },
+    {
+        "id": 55,
+        "name": "ADJARRA",
+        "department_id": "10"
+    },
+    {
+        "id": 56,
+        "name": "ADJOHOUN",
+        "department_id": "10"
+    },
+    {
+        "id": 57,
+        "name": "AGUEGUES",
+        "department_id": "10"
+    },
+    {
+        "id": 58,
+        "name": "AKPRO-MISSERETE",
+        "department_id": "10"
+    },
+    {
+        "id": 59,
+        "name": "AVRANKOU",
+        "department_id": "10"
+    },
+    {
+        "id": 60,
+        "name": "BONOU",
+        "department_id": "10"
+    },
+    {
+        "id": 61,
+        "name": "DANGBO",
+        "department_id": "10"
+    },
+    {
+        "id": 62,
+        "name": "PORTO-NOVO",
+        "department_id": "10"
+    },
+    {
+        "id": 63,
+        "name": "SEME-PODJI",
+        "department_id": "10"
+    },
+    {
+        "id": 64,
+        "name": "ADJA-OUERE",
+        "department_id": "11"
+    },
+    {
+        "id": 65,
+        "name": "IFANGNI",
+        "department_id": "11"
+    },
+    {
+        "id": 66,
+        "name": "KETOU",
+        "department_id": "11"
+    },
+    {
+        "id": 67,
+        "name": "POBE",
+        "department_id": "11"
+    },
+    {
+        "id": 68,
+        "name": "SAKETE",
+        "department_id": "11"
+    },
+    {
+        "id": 69,
+        "name": "ABOMEY",
+        "department_id": "12"
+    },
+    {
+        "id": 70,
+        "name": "AGBANGNIZOUN",
+        "department_id": "12"
+    },
+    {
+        "id": 71,
+        "name": "BOHICON",
+        "department_id": "12"
+    },
+    {
+        "id": 72,
+        "name": "COVE",
+        "department_id": "12"
+    },
+    {
+        "id": 73,
+        "name": "DJIDJA",
+        "department_id": "12"
+    },
+    {
+        "id": 74,
+        "name": "OUINHI",
+        "department_id": "12"
+    },
+    {
+        "id": 75,
+        "name": "ZAGNANADO",
+        "department_id": "12"
+    },
+    {
+        "id": 76,
+        "name": "ZA-KPOTA",
+        "department_id": "12"
+    },
+    {
+        "id": 77,
+        "name": "ZOGBODOMEY",
+        "department_id": "12"
+    }
+]
