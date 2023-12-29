@@ -11,7 +11,7 @@ For javascript version, please visit [location_data_bj](https://www.npmjs.com/pa
 >
 > Department: 12
 >
-> Twon: 77
+> Town: 77
 >
 > District: 546
 >
