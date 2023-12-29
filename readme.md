@@ -45,7 +45,7 @@ It implements the `generateCode` function which is used to generate codes based 
 
 
 ## Disclaimer
-Please note that the dataset used is not official. It is based on the work done by the [Junior Gantin](https://github.com/nioperas06) at [this repos](https://github.com/nioperas06/bj-decoupage-territorial).
+Please note that the dataset used is not official. It is based on the work done by [Junior Gantin](https://github.com/nioperas06) at [this repos](https://github.com/nioperas06/bj-decoupage-territorial).
 
 
 ## License
